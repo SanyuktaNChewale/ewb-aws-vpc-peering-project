@@ -108,8 +108,8 @@ Examples:
 ```text
 aws-vpc-peering-project/
 ├── README.md
-├── report/
-│   └── EWB_VPC_Peering_Report.pdf
+├── Project-Report/
+│   └── Sanyukta_Chewale_EWB_VPC_Peering.pdf
 ├── architecture/
 │   └── architecture.png
 └── screenshots/
