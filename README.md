@@ -113,11 +113,6 @@ aws-vpc-peering-project/
 ├── architecture/
 │   └── architecture.png
 └── screenshots/
-    ├── vpc-configuration.png
-    ├── peering-active.png
-    ├── route-tables.png
-    ├── ping-success.png
-    └── ssh-test.png
 ```
 
 ## Cost Management
