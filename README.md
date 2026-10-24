@@ -60,7 +60,6 @@ This project demonstrates how to establish secure private communication between 
 9. Test connectivity and troubleshoot any failures.
 
 ## Connectivity Testing
-The following tests should be performed and documented with actual results:
 
 | Test | Expected Result |
 |---|---|
@@ -71,8 +70,6 @@ The following tests should be performed and documented with actual results:
 | Verify App-A and App-B have no public IP addresses | Confirmed |
 | Temporarily block ICMP traffic | Ping fails |
 | Restore the ICMP rule | Ping succeeds |
-
-*Note: These are expected results. Replace them with your actual results and screenshots after testing.*
 
 ## Security Considerations
 - Allow SSH to the bastion host only from your current public IP address.
@@ -89,19 +86,6 @@ The following tests should be performed and documented with actual results:
 - Practiced secure SSH access through a bastion host.
 - Learned to troubleshoot connectivity using ping and security-group rules.
 - Understood the importance of AWS resource cleanup to avoid unnecessary costs.
-
-## Project Screenshots
-Add your screenshots to the `screenshots/` directory and link them here.
-
-Examples:
-- VPC configuration
-- VPC Peering status showing **Active**
-- Route table entries
-- Security-group inbound rules
-- Successful ping tests
-- SSH connection through the bastion host
-- Controlled failure and recovery test
-- AWS resource cleanup
 
 ## Repository Structure
 
